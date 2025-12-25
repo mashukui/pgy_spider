@@ -120,7 +120,9 @@ def get_logger(self):
 季卡：使用期限3个月，499元。季卡可多次购买。适合中期采集需求
 年卡：使用期限1年，999元。年卡可多次购买。适合长期采集需求
 ```
-付费方式：<img width="1528" height="918" alt="收款码v2" src="https://github.com/user-attachments/assets/314cf196-ce43-4d0c-a572-c04eaf357d5c" />
+付费方式：
+<img width="2144" height="412" alt="收款码v4" src="https://github.com/user-attachments/assets/a295b372-b725-4847-88fd-290fcb45d12f" />
+
 付费后，加我v（493882434）自动掉落登录卡密。
 
 ## 3.2 一机一码
@@ -134,5 +136,6 @@ def get_logger(self):
 
 # 四、软件首发
 "**爬蒲公英软件**"首发于公众号"**老男孩的平凡之路**"，欢迎交流！
-![二维码-公众号放底部](https://github.com/user-attachments/assets/b98aa9f5-aff2-450f-995d-b5df0172da08)
+<img width="1938" height="364" alt="二维码-公众号放底部v2" src="https://github.com/user-attachments/assets/1e49f616-5b7c-4857-80bb-39412cf7e175" />
+
 
