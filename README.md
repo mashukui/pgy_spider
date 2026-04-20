@@ -1,7 +1,7 @@
 # pgy_spider
 > 🔥 小红书蒲公英KOL采集器
 >
-> ✅KOL达人筛选 ✅34个核心字段 ✅助力媒介投放 ✅GUI开箱即用
+> ✅KOL达人筛选 ✅34个核心字段 ✅助力媒介投放 ✅GUI开箱即用 ✅支持Win、Mac双端运行
 >
 > [⬇️点击下载最新版安装包](https://github.com/mashukui/pgy_spider/releases)
 
