@@ -1,5 +1,9 @@
 # pgy_spider
-> 🔥 小红书蒲公英KOL数据采集神器 - 34个核心字段、智能筛选、媒介投放数据，GUI界面开箱即用。商业软件，提供日卡试用。
+> 🔥 小红书蒲公英KOL采集器
+>
+> ✅KOL达人筛选 ✅34个核心字段 ✅助力媒介投放 ✅GUI开箱即用
+>
+> [⬇️点击下载最新版安装包](https://github.com/mashukui/pgy_spider/releases)
 
 # 一、背景介绍
 ## 1.0 爬取目标
@@ -123,14 +127,11 @@ def get_logger(self):
 ```
 **方式一：自助开通（推荐）**
 
-开通入口：https://mgnb.pro/product/pgy
+开通入口1：https://mgnb.pro/product/pgy
 
 **方式二：自助开通**
 
-开通入口：https://kjyjf.xetlk.com/s/2uCpIG
-
-**方式三：手动开通，付费后加v（493882434）对接**
-<img width="2324" height="604" alt="收款码v5" src="https://github.com/user-attachments/assets/4c6f2a78-e2b0-4993-a839-92da7b16fe64" />
+开通入口2：https://kjyjf.xetlk.com/s/2uCpIG
 
 ## 3.2 一机一码
 为防止软件被恶意转卖，采用一机一码机制，一个卡密只能在一台电脑运行、不可多电脑运行
@@ -142,7 +143,7 @@ def get_logger(self):
 软件由本人独立原创开发，长期维护更新，提供稳定运行​。
 
 # 四、软件首发
-公众号"**老男孩的平凡之路**"，后台回复"**爬蒲公英软件**"获取最新版软件安装包。
+公众号"**老男孩的平凡之路**"，后台回复"**爬蒲公英软件**"获取最新版软件安装包。[点这里直达下载](https://github.com/mashukui/pgy_spider/releases)
 <img width="1938" height="364" alt="二维码-公众号放底部v2" src="https://github.com/user-attachments/assets/1e49f616-5b7c-4857-80bb-39412cf7e175" />
 
 
