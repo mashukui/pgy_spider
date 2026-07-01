@@ -6,6 +6,10 @@
 >
 > [⬇️下载最新版](https://github.com/mashukui/pgy_spider/releases) | [🎬使用演示](https://www.bilibili.com/video/BV14J4m1T7tb) | [💳开通使用](https://mgnb.pro/product/pgy)
 
+<p align="center">
+  <a href="README.md">简体中文 README</a> | <a href="README.en.md">English README</a>
+</p>
+
 ## 👋 软件简介
 
 `pgy_spider` 是一款面向小红书蒲公英达人筛选、媒介投放和 KOL 数据整理场景的桌面 GUI 工具。软件围绕蒲公英「寻找博主」页面开发，支持按照笔记关键词、笔记类型、粉丝数量、图文报价、搜索页范围等条件筛选博主，并进一步采集博主详情页中的报价、粉丝画像、阅读互动、合作笔记表现等核心字段。
