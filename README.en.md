@@ -6,6 +6,11 @@
 >
 > [⬇️Download Latest Release](https://github.com/mashukui/pgy_spider/releases) | [🎬Video Demo](https://www.bilibili.com/video/BV14J4m1T7tb) | [💳Purchase Access](https://mgnb.pro/product/pgy)
 
+
+<p align="center">
+  <a href="README.md">简体中文 README</a> | <a href="README.en.md">English README</a>
+</p>
+
 ## 👋 Overview
 
 `pgy_spider` is a desktop GUI tool designed for Xiaohongshu Pugongying creator filtering, media buying, and KOL data organization. It is built around the Pugongying "Find Creators" page and supports filtering creators by note keyword, note type, follower count, image-text quote, and search page range. It can also enter creator detail pages to collect core fields such as quotes, follower demographics, read and engagement metrics, and sponsored note performance.
