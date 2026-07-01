@@ -211,6 +211,6 @@ Users are solely responsible for risks and liabilities caused by improper use.
 ## 📦 Get the Software
 
 - GitHub Releases: [https://github.com/mashukui/pgy_spider/releases](https://github.com/mashukui/pgy_spider/releases)
-- WeChat official account: reply with `爬蒲公英软件` in `老男孩的平凡之路`
+- WeChat official account: reply with `蒲公英` in `老男孩的平凡之路`
 
-<img alt="二维码-公众号放底部v4" src="https://github.com/user-attachments/assets/18923108-0a15-44aa-85d1-723bc64c3403" />
+<img width="573" height="196" alt="二维码-公众号放底部v4" src="https://github.com/user-attachments/assets/43fa87ea-b681-44cf-8793-bf36cb8f82dd" />
