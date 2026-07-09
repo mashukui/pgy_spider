@@ -579,19 +579,19 @@
     <div class="carousel" id="carousel">
         <div class="carousel-track" id="carouselTrack">
             <div class="carousel-slide">
-                <img src="images/s01.png" alt="爬取目标">
+                <img src="images/v2.5_界面.png" alt="软件主界面 v2.5">
             </div>
             <div class="carousel-slide">
-                <img src="images/s02.png" alt="寻找博主页面">
+                <img src="images/v2.5_数据1.png" alt="采集结果数据 1">
             </div>
             <div class="carousel-slide">
-                <img src="images/s03.png" alt="博主详情页">
+                <img src="images/v2.5_数据2.png" alt="采集结果数据 2">
             </div>
             <div class="carousel-slide">
-                <img src="images/s04.png" alt="软件主界面v2.3">
+                <img src="images/v2.5_数据3.png" alt="采集结果数据 3">
             </div>
             <div class="carousel-slide">
-                <img src="images/s05.png" alt="cookie自动配置">
+                <img src="images/ck小工具.png" alt="Cookie 小工具">
             </div>
         </div>
         <button class="carousel-btn carousel-prev" onclick="moveSlide(-1)">◀</button>
@@ -603,7 +603,7 @@
             <button class="carousel-dot" onclick="goToSlide(3)"></button>
             <button class="carousel-dot" onclick="goToSlide(4)"></button>
         </div>
-        <div class="carousel-caption-bar" id="carouselCaption">📥 爬取目标：支持博主列表采集 + 博主详情采集两种模式</div>
+        <div class="carousel-caption-bar" id="carouselCaption">🖥️ 软件主界面 v2.5：功能分区清晰，支持博主列表和博主详情采集</div>
     </div>
 </div>
 
@@ -810,11 +810,11 @@ var dots = document.querySelectorAll('.carousel-dot');
 var caption = document.getElementById('carouselCaption');
 var autoTimer;
 var captions = [
-    { zh: '📥 爬取目标：支持博主列表采集 + 博主详情采集两种模式', en: '📥 Crawl targets: influencer list + influencer detail — two modes supported' },
-    { zh: '🔍 寻找博主页面：品牌找人/搜推博主，按条件筛选达人', en: '🔍 Find influencers: brand-side KOL discovery with advanced filtering' },
-    { zh: '👤 博主详情页：采集报价、粉丝画像、商业数据等 34 个字段', en: '👤 Influencer detail page: scrapes 34 fields including pricing, follower insights, and business data' },
-    { zh: '🖥️ 软件主界面 v2.3：清晰的功能分区，操作简单直观', en: '🖥️ App main UI v2.3: clear layout with intuitive operation' },
-    { zh: '🍪 Cookie 自动配置：内置小工具，一键获取蒲公英平台 Cookie', en: '🍪 Auto cookie setup: built-in tool for one-click Pugongying cookie extraction' }
+    { zh: '🖥️ 软件主界面 v2.5：功能分区清晰，支持博主列表和博主详情采集', en: '🖥️ App main UI v2.5: clear sections for influencer list and detail collection' },
+    { zh: '📊 采集结果数据 1：导出结构化达人数据，便于筛选和分析', en: '📊 Export result 1: structured influencer data for filtering and analysis' },
+    { zh: '📈 采集结果数据 2：覆盖更多商业与账号维度字段', en: '📈 Export result 2: more business and account-level fields' },
+    { zh: '📋 采集结果数据 3：多字段结果可直接用于表格整理', en: '📋 Export result 3: multi-field output ready for spreadsheet workflows' },
+    { zh: '🍪 Cookie 小工具：辅助快速配置蒲公英平台 Cookie', en: '🍪 Cookie helper: quickly configure Pugongying platform cookies' }
 ];
 
 function updateCarousel() {
