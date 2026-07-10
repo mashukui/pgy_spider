@@ -4,7 +4,7 @@
 >
 > 💡 支持 Windows/macOS，无需配置 Python 环境；仓库用于软件介绍、版本发布、使用说明和问题反馈，完整源码暂不公开。
 >
-> [⬇️下载最新版](https://github.com/mashukui/pgy_spider/releases) | [🎬使用演示](https://www.bilibili.com/video/BV14J4m1T7tb) | [💳开通使用](https://mgnb.pro/product/pgy)
+> [⬇️下载最新版](https://github.com/mashukui/pgy_spider/releases) | [🎬使用演示](https://www.bilibili.com/video/BV14J4m1T7tb) | [🏠产品主页](https://mashukui.github.io/pgy_spider/) | [💳开通使用](https://mgnb.pro/product/pgy)
 
 <p align="center">
   <a href="README.md">简体中文 README</a> | <a href="README.en.md">English README</a>
