@@ -4,7 +4,7 @@
 >
 > 💡 Supports Windows/macOS with no Python environment required. This repository is used for software introduction, release distribution, usage documentation, and issue feedback. The complete source code is not publicly available.
 >
-> [⬇️Download Latest Release](https://github.com/mashukui/pgy_spider/releases) | [🎬Video Demo](https://www.bilibili.com/video/BV14J4m1T7tb) | [💳Purchase Access](https://mgnb.pro/product/pgy)
+> [⬇️Download Latest Release](https://github.com/mashukui/pgy_spider/releases) | [🎬Video Demo](https://www.bilibili.com/video/BV14J4m1T7tb) | [🏠Homepage](https://mashukui.github.io/pgy_spider/) | [💳Purchase Access](https://mgnb.pro/product/pgy)
 
 
 <p align="center">
