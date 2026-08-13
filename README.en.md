@@ -150,7 +150,7 @@ During collection, CSV files are saved automatically, and runtime logs are recor
 
 | Plan | Duration | Price | Recommended Usage |
 | --- | --- | --- | --- |
-| Day pass | 1 day | 39 CNY | Trial use or small one-time tasks |
+| Day pass | 1 day | 9.9 CNY | Trial use or small one-time tasks |
 | Monthly pass | 1 month | 149 CNY | Short-term collection needs |
 | Quarterly pass | 3 months | 399 CNY | Medium-term collection needs |
 | Yearly pass | 1 year | 799 CNY | Long-term stable use |
