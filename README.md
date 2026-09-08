@@ -1,4 +1,10 @@
+<div align="center">
+
 # pgy_spider
+
+[![Release](https://img.shields.io/github/v/release/mashukui/pgy_spider?style=flat)](https://github.com/mashukui/pgy_spider/releases) [![最近更新](https://img.shields.io/github/release-date/mashukui/pgy_spider?style=flat)](https://github.com/mashukui/pgy_spider/releases) ![平台](https://img.shields.io/badge/%E5%B9%B3%E5%8F%B0-Windows%20%7C%20macOS-blue?style=flat)
+
+</div>
 
 > 🔥 小红书蒲公英 KOL 采集工具 / Xiaohongshu Pugongying KOL crawler GUI，支持按筛选条件采集博主列表、进入博主详情页采集核心商业数据，并导出 CSV 文件。
 >
@@ -41,7 +47,7 @@
 1. 打开 [Releases](https://github.com/mashukui/pgy_spider/releases) 下载最新版软件。
 2. 解压后运行对应系统的客户端。
 3. 使用软件内置的 cookie 小工具完成 cookie 配置。
-4. 登录软件账号。
+4. 登录软件账号（还没账号？[日卡 19 元起，支付秒开通](#-价格说明)）。
 5. 填写笔记关键词、笔记类型、粉丝数量、图文报价和页码范围等采集条件。
 6. 点击「开始执行」，等待采集完成。
 7. 在软件所在目录查看 CSV 文件和日志文件。
@@ -59,19 +65,19 @@
 
 蒲公英平台可用于按条件筛选小红书博主：
 
-![爬取目标](https://files.mdnice.com/user/32110/3d7db129-54f5-41fb-9311-2a912de03580.png)
+![爬取目标](docs/images/readme/pgy_01.png)
 
 ### 蒲公英寻找博主页面
 
 进入蒲公英「寻找博主」页面后，可以根据平台提供的筛选条件过滤博主列表。页面上方为筛选条件，下方为筛选结果。
 
-![寻找博主页面](https://files.mdnice.com/user/32110/1c4c584d-2623-466c-b531-c34af8aaffc6.png)
+![寻找博主页面](docs/images/readme/pgy_02.png)
 
 ### 博主详情页
 
 软件会基于采集到的博主 id，继续进入详情页整理更完整的数据。
 
-![某个博主的详情页](https://files.mdnice.com/user/32110/96bf2ae9-298b-4829-b2e1-ce1d67ca4d61.png)
+![某个博主的详情页](docs/images/readme/pgy_03.png)
 
 ### 软件主界面
 
@@ -89,7 +95,7 @@
 
 软件可采集`34`个核心字段：
 
-![爬取到的字段](https://files.mdnice.com/user/32110/2677969f-0688-44fc-9ce9-d5899c4897ca.png)
+![爬取到的字段](docs/images/readme/pgy_04.png)
 
 演示数据可查看腾讯文档中的《蒲公英》sheet页：
 
@@ -99,7 +105,7 @@
 
 采集过程中会生成日志文件，便于出现问题后定位原因。
 
-![log文件](https://files.mdnice.com/user/32110/8ffc7309-e1a7-473a-b972-815fb9016063.png)
+![log文件](docs/images/readme/pgy_05.png)
 
 ## 📊 输出字段
 
@@ -162,7 +168,24 @@
 - 一台电脑仅允许运行一个软件实例，不支持多开。
 - 软件由作者长期维护，后续版本通过 [GitHub Releases](https://github.com/mashukui/pgy_spider/releases) 发布。
 
+## 🕒 更新日志
+
+| 版本 | 发布日期 | 更新内容 |
+|---|---|---|
+| v2.5 | 2026-05-20 | 新增自动配置 cookie 小工具、告警/成功弹窗提醒、自定义采集间隔；优化一机一码机制 |
+| v2.3 | 2026-03-24 | 新增 macOS 客户端 |
+
+> 完整更新历史见 [Releases](https://github.com/mashukui/pgy_spider/releases)
+
 ## ❓ 常见问题
+
+### 换电脑或重装系统后还能用吗？
+
+可以。授权采用一机一码，一个账号绑定一台电脑；如需更换设备，请联系[公众号「老男孩的平凡之路」](https://github.com/mashukui/mashukui/blob/main/wechat2.png)后台申请解绑，处理后即可在新电脑登录使用。
+
+### 软件更新需要重新购买吗？
+
+不需要。授权有效期内，后续版本均通过 [GitHub Releases](https://github.com/mashukui/pgy_spider/releases) 免费更新，下载最新版覆盖安装即可。
 
 ### 是否需要安装Python？
 
@@ -218,3 +241,10 @@ cookie用于让软件以当前账号状态访问蒲公英页面数据。请使�
 - 公众号 `老男孩的平凡之路` 后台回复:`蒲公英`
 
 <img width="573" height="196" alt="二维码-公众号放底部v4" src="https://github.com/user-attachments/assets/911ae242-25e1-4147-8fd9-038384596fe7" />
+
+
+---
+
+<p align="center">
+更多采集工具（抖音 / 小红书 / 微博 / 蒲公英 / 油管等 7 款）：<a href="https://mgnb.pro">马哥数据采集工坊</a>
+</p>

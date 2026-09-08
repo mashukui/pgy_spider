@@ -1,4 +1,10 @@
+<div align="center">
+
 # pgy_spider
+
+[![Release](https://img.shields.io/github/v/release/mashukui/pgy_spider?style=flat)](https://github.com/mashukui/pgy_spider/releases) [![Last Update](https://img.shields.io/github/release-date/mashukui/pgy_spider?style=flat)](https://github.com/mashukui/pgy_spider/releases) ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-blue?style=flat)
+
+</div>
 
 > 🔥 Xiaohongshu Pugongying KOL data collection tool / Xiaohongshu Pugongying KOL crawler GUI, supporting creator list collection by filtering conditions, creator detail collection, core commercial data extraction, and CSV export.
 >
@@ -42,7 +48,7 @@ It is suitable for the following scenarios:
 1. Open [Releases](https://github.com/mashukui/pgy_spider/releases) and download the latest version.
 2. Extract the package and run the client for your operating system.
 3. Use the built-in cookie helper to configure your cookie.
-4. Log in to the software account.
+4. Log in to the software account (no account yet? [Day pass from 19 CNY, instant activation](#-pricing)).
 5. Enter collection conditions such as note keyword, note type, follower count, image-text quote, and page range.
 6. Click "Start" and wait for the collection task to finish.
 7. Check the CSV files and log files in the software directory.
@@ -60,19 +66,19 @@ It is suitable for the following scenarios:
 
 The Pugongying platform can be used to filter Xiaohongshu creators by conditions:
 
-![Collection target](https://files.mdnice.com/user/32110/3d7db129-54f5-41fb-9311-2a912de03580.png)
+![Collection target](docs/images/readme/pgy_01.png)
 
 ### Pugongying Find Creators Page
 
 After entering the Pugongying "Find Creators" page, users can filter creator lists using the platform's filtering options. The upper area contains filtering conditions, and the lower area shows filtered results.
 
-![Find creators page](https://files.mdnice.com/user/32110/1c4c584d-2623-466c-b531-c34af8aaffc6.png)
+![Find creators page](docs/images/readme/pgy_02.png)
 
 ### Creator Detail Page
 
 The software can continue to enter detail pages based on collected creator ids and organize more complete data.
 
-![Creator detail page](https://files.mdnice.com/user/32110/96bf2ae9-298b-4829-b2e1-ce1d67ca4d61.png)
+![Creator detail page](docs/images/readme/pgy_03.png)
 
 ### Main Interface
 
@@ -90,7 +96,7 @@ Before collection, you can use the built-in cookie helper to configure the cooki
 
 The software can collect `34` core fields:
 
-![Collected fields](https://files.mdnice.com/user/32110/2677969f-0688-44fc-9ce9-d5899c4897ca.png)
+![Collected fields](docs/images/readme/pgy_04.png)
 
 Demo data is available in the "Pugongying" sheet of the Tencent Docs file:
 
@@ -100,7 +106,7 @@ Demo data is available in the "Pugongying" sheet of the Tencent Docs file:
 
 Log files are generated during collection, which helps locate issues when errors occur.
 
-![Log files](https://files.mdnice.com/user/32110/8ffc7309-e1a7-473a-b972-815fb9016063.png)
+![Log files](docs/images/readme/pgy_05.png)
 
 ## 📊 Output Fields
 
@@ -159,11 +165,28 @@ Purchase page: [https://mgnb.pro/product/pgy](https://mgnb.pro/product/pgy)
 
 ## 🔐 License and Activation Rules
 
-- The software uses a one-device-one-license mechanism. One license key can only be used on one computer.
+- The software uses account and password login (a phone number and password are provided after purchase). One account can only be used on one computer.
 - Only one software instance is allowed on a single computer. Multiple concurrent instances are not supported.
 - The software is maintained by the author, and future versions will be published through [GitHub Releases](https://github.com/mashukui/pgy_spider/releases).
 
+## 🕒 Changelog
+
+| Version | Date | Notes |
+|---|---|---|
+| v2.5 | 2026-05-20 | Added auto cookie configuration tool, alert/success popups, and custom collection interval; improved one-device-one-code activation |
+| v2.3 | 2026-03-24 | Added macOS client |
+
+> For the full release history, see [Releases](https://github.com/mashukui/pgy_spider/releases)
+
 ## ❓ FAQ
+
+### Can I use the software after changing computers or reinstalling the system?
+
+Yes. Activation is bound to one computer per account. To switch devices, contact the [WeChat official account 老男孩的平凡之路](https://github.com/mashukui/mashukui/blob/main/wechat2.png) and request unbinding; after that you can log in on the new computer.
+
+### Do I need to purchase again for software updates?
+
+No. During the license period, all future versions are freely available on [GitHub Releases](https://github.com/mashukui/pgy_spider/releases). Just download the latest version and reinstall.
 
 ### Do I need to install Python?
 
@@ -219,3 +242,10 @@ Users are solely responsible for risks and liabilities caused by improper use.
 - WeChat official account: reply with `蒲公英` in `老男孩的平凡之路`
 
 <img width="573" height="196" alt="二维码-公众号放底部v4" src="https://github.com/user-attachments/assets/43fa87ea-b681-44cf-8793-bf36cb8f82dd" />
+
+
+---
+
+<p align="center">
+More collection tools (Douyin / Xiaohongshu / Weibo / PGY / YouTube, 7 in total): <a href="https://mgnb.pro">马哥数据采集工坊 (mgnb.pro)</a>
+</p>
